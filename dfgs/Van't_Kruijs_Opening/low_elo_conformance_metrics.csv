@@ -1,0 +1,2 @@
+opening,bracket,total_games,total_human_moves,optimal_path_length,fitness,precision,f1_score,jaccard_index,edge_coverage_pct,move_conformance_pct,deviation_rate,missing_optimal_edges,game_adherence_rate,avg_partial_adherence,std_partial_adherence,human_complexity,optimal_complexity,complexity_ratio,common_edges,human_only_edges,optimal_only_edges
+Van't_Kruijs_Opening,Low Elo,2775,4963,10,0.3333333333333333,0.125,0.18181818181818182,0.1,33.33333333333333,36.12734233326617,0.875,6,0.0,0.161981981981982,0.0697462559274085,24,9,2.6666666666666665,3,21,6

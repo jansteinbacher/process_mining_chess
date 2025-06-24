@@ -1,0 +1,15 @@
+GLOBAL CONFORMANCE ANALYSIS REPORT\n============================================================\nGenerated: 2025-06-24 10:53:58\nTotal Openings Analyzed: 14\nTotal Brackets: 2\nTotal Games: 46,029\n\nOVERALL CONFORMANCE STATISTICS\n-----------------------------------\nFitness                  : 0.456 ± 0.169\nPrecision                : 0.168 ± 0.073\nF1 Score                 : 0.242 ± 0.099\nJaccard Index            : 0.141 ± 0.065\nEdge Coverage Pct        : 45.556 ± 16.870\nMove Conformance Pct     : 40.083 ± 16.272\n\nBRACKET COMPARISON\n------------------\n           fitness           precision            f1_score           jaccard_index           edge_coverage_pct           
+              mean       std      mean       std      mean       std          mean       std              mean        std
+bracket                                                                                                                  
+High Elo  0.433333  0.177237  0.163012  0.065807  0.232826  0.092756      0.134597  0.060376         43.333333  17.723683
+Low Elo   0.477778  0.166048  0.173450  0.082230  0.251017  0.108878      0.147497  0.071081         47.777778  16.604824\n\nTOP 5 OPENINGS BY F1-SCORE\n---------------------------\n                                     opening  bracket  f1_score  fitness  precision
+                            Bishop's_Opening  Low Elo  0.413793 0.666667   0.300000
+                                Pirc_Defense High Elo  0.387097 0.666667   0.272727
+                                Pirc_Defense  Low Elo  0.375000 0.666667   0.260870
+                              Modern_Defense High Elo  0.363636 0.666667   0.250000
+Scandinavian_Defense_Mieses-Kotroc_Variation  Low Elo  0.320000 0.444444   0.250000\n\nBOTTOM 5 OPENINGS BY F1-SCORE\n------------------------------\n                  opening  bracket  f1_score  fitness  precision
+        Queen's_Pawn_Game High Elo  0.068966 0.222222   0.040816
+        Queen's_Pawn_Game  Low Elo  0.071429 0.222222   0.042553
+     Scandinavian_Defense  Low Elo  0.120000 0.333333   0.073171
+Benoni_Defense_Old_Benoni High Elo  0.166667 0.333333   0.111111
+     Van't_Kruijs_Opening High Elo  0.173913 0.222222   0.142857\n\nCOMPLEXITY ANALYSIS\n-------------------\nAverage Human Complexity:  27.1 transitions\nAverage Optimal Complexity: 9.0 transitions\nAverage Complexity Ratio:   3.01\nMax Complexity Ratio:       5.44\nMin Complexity Ratio:       1.56\n

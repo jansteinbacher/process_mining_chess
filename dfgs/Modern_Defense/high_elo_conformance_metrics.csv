@@ -1,0 +1,2 @@
+opening,bracket,total_games,total_human_moves,optimal_path_length,fitness,precision,f1_score,jaccard_index,edge_coverage_pct,move_conformance_pct,deviation_rate,missing_optimal_edges,game_adherence_rate,avg_partial_adherence,std_partial_adherence,human_complexity,optimal_complexity,complexity_ratio,common_edges,human_only_edges,optimal_only_edges
+Modern_Defense,High Elo,1972,7810,10,0.6666666666666666,0.25,0.36363636363636365,0.2222222222222222,66.66666666666666,51.17797695262484,0.75,3,0.6085192697768762,0.2775862068965518,0.1449790331501697,24,9,2.6666666666666665,6,18,3
